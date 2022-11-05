@@ -1,23 +1,4 @@
-/// @file pa04.cpp
-/// @author Dr. Brodersen <david.brodersen@csn.edu>
-/// @date 10/5/22
-/// @note I pledge my word of honor that I have abided by the
-/// the CSN Academic Integrity Policy while completing this assignment.
-///
-/// @brief This program reads in two Cartesian coordinates representing two
-/// points on a line, then computes the line equation, slope direction, and
-/// line segment length between the two points. If the points are the same,
-/// an error is reported. If the input is bad, an error is reported.
-/// On error, a usage message is presented.
-///
-/// @note People who helped me:
-///
-/// @note This is but one possible solution to the assignment.
-///       Programming techniques and commands in this solution
-///       are aligned with the current and previous chapters,
-///       labs, and lectures, which may result in a trade-off
-///       between efficient coding and what student are
-///       currently able to understand.
+/// @file line.cpp
 
 // include header files
 #include <iostream>
@@ -154,4 +135,4 @@ int main() {
 }
 
 
-// EOF: pa04.cpp
+// EOF: lineEquation.cpp
